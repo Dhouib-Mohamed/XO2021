@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XO 2021</string>
+    <string name="welcome_to_xo_game">Welcome to XO game</string>
+    <string name="play">PLAY</string>
+    <string name="start">Start</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="status">Status</string>
+    <string name="todo">TODO</string>
+</resources>
